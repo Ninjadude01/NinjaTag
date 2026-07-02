@@ -1,6 +1,6 @@
 # NinjaTag
 
-This is a cool ninja themed nametag! It featrues a 5cm ruler on the left side, a shuriken in the middle, and a katana on the right. It also includes my name as well as a link to my github account on the backside. Note: There is no schematic diagram.
+This is a cool ninja themed nametag! It features a 5cm ruler on the left side, a shuriken in the middle, and a katana on the right. It also includes my name as well as a link to my github account on the backside. Note: There is no schematic diagram.
 
 Slack username: U0A46HEJ2UW
 
