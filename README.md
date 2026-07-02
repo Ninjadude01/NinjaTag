@@ -7,3 +7,6 @@ Slack username: U0A46HEJ2UW
 ![pic](Assets/Screenshot%202026-07-02%20204727.png)
 ![pic](Assets/Screenshot%202026-07-02%20204810.png)
 ![pic](Assets/Screenshot%202026-07-02%20204910.png)
+
+BOM: 
+5 Plain PCB's for $3.20
